@@ -249,7 +249,7 @@ ul{
 }
 
 .card--techstack:hover {
-    font-size: 1em;
+    font-size: 5em;
     border-color: var(--cardhover);
 }
 
