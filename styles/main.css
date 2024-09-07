@@ -14,7 +14,7 @@
     --mainLinkColor: #0da2b8;
     --mainBorderColor: rgb(150, 150, 150);
     --mainBgColor: rgb(249, 250, 251);
-    --cardhover: rgb(2, 1, 1);
+    --cardhover: rgba(2, 1, 1, 40);
     --grayscale: 0
 }
 
@@ -24,7 +24,7 @@
     --mainLinkColor: rgb(30, 190, 214);
     --mainBorderColor: #2b3031;
     --mainBgColor: #131415;
-    --cardhover: white;
+    --cardhover: rgb(55,1,1)
     --grayscale: 100
 }
 
@@ -249,7 +249,7 @@ ul{
 }
 
 .card--techstack:hover {
-    font-size: 2em;
+    font-size: 1em;
     border-color: var(--cardhover);
 }
 
