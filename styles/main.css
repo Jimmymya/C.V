@@ -24,7 +24,7 @@
     --mainLinkColor: rgb(30, 190, 214);
     --mainBorderColor: #2b3031;
     --mainBgColor: #131415;
-    --cardhover: rgb(55,1,1);
+    --cardhover: meduimseagreen;
     --grayscale: 100
 }
 
@@ -249,7 +249,7 @@ ul{
 }
 
 .card--techstack:hover {
-    font-size: 0.25em;
+    font-size: 0.75em;
     border-color: var(--cardhover);
 }
 
