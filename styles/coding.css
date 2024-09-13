@@ -3,7 +3,11 @@ h1 {  color: green;       /*color of text*/
       text-align: center; /*how the text is aligned in the element */
       font-size: 1em; /*size of the font, 1 em means 1 times bigger than normal */
       font-family: sans-serif; /* the font style, you can put multiple and it will pick the first one if available, if its not available if will go for the next available one and so on */
-
+      padding-left: 20%; 
+      padding-right: 50px;
+      padding-top: 20px;
+      padding-bottom: 35%; /* padding is the space between the content and its borders, it only affects the inside, you can use % or px, you can also do shorthand like  padding : 10px, 20px, which is basically top/bottom, right/left */
+      
 
   
 }
