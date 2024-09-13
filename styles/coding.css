@@ -1,5 +1,6 @@
 h1 {  color: green;       /*color of text*/
-      background-color: red;
+      background-color: red; /*backgroud color of an element*/
+      text-align: center; /*how the text is aligned in the element */
 
 
   
