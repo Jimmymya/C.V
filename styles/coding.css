@@ -2,6 +2,7 @@ h1 {  color: green;       /*color of text*/
       background-color: red; /*backgroud color of an element*/
       text-align: center; /*how the text is aligned in the element */
       font-size: 1em; /*size of the font, 1 em means 1 times bigger than normal */
+      font-family: sans-serif; /* the font style, you can put multiple and it will pick the first one if available, if its not available if will go for the next available one and so on */
 
 
   
