@@ -7,7 +7,7 @@ h1 {  color: green;       /*color of text*/
       padding-right: 20px;
       padding-top: 20px;
       padding-bottom: 20px; /* padding is the space between the content and its borders, it only affects the inside, you can use % or px, you can also do shorthand like  padding : 10px, 20px, which is basically top/bottom, right/left */
-      display: block;
+    
 
   
 }
