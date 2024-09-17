@@ -10,7 +10,6 @@ h1 {  color: blue;    /*color of text*/
     }
 
 p {
-   position: absolute;
-   x: 300px;
-   y: 300px;
+   x(or left): 300px;
+   y(or top): 300px;
 }
