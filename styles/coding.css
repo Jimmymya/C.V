@@ -11,6 +11,6 @@ h1 {  color: blue;    /*color of text*/
 
 p {
    position: absolute;
-   x: 20px
-   y: 300px
+   x: 20px ;
+   y: 300px ;
 }
