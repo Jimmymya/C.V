@@ -1,4 +1,4 @@
-h1 {  color: rgb(55,78,23);       /*color of text*/
+h1 {  color: blue;    /*color of text*/
       background-color: black; /*backgroud color of an element*/
       text-align: center; /*how the text is aligned in the element */
       font-size: 1em; /*size of the font, 1 em means 1 times bigger than normal */
