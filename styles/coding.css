@@ -9,6 +9,11 @@ h1 {  color: blue;    /*color of text*/
       padding-bottom: 20px; /* padding is the space between the content and its borders, it only affects the inside, you can use % or px, you can also do shorthand like  padding : 10px, 20px, which is basically top/bottom, right/left */
     }
 
-p { position: x: 300px;
-              y: 300px;
+p { 
+    border:solid;
+    width:150px;
+    height:80px;
+    left:40px;
+    top:60px;
+    position:relative;
 }
