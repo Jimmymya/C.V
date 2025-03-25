@@ -248,10 +248,11 @@ ul{
 
 }
 
+/* This is a comment in CSS 
 .card--techstack:hover {
     font-size: 1em;
     border-color: var(--cardhover);
-}
+} */
 
 .card--project {
     padding-top: 1em;
